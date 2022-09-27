@@ -19,6 +19,9 @@ html{
     font-size: 14px;
 }
 body{
+    background-image: url("./images/pattern-background-desktop.svg");
+    background-position-x: center;
+    background-repeat: no-repeat;
     font-family: 'Red Hat Display', sans-serif;
     display: flex;
     justify-content: center;
